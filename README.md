@@ -178,3 +178,6 @@ Proプランでは、料金はメトリクスの量とメトリクス内のデ�
 参考: https://grafana.com/docs/grafana-cloud/cost-management-and-billing/understand-your-invoice/metrics-invoice/
 
 ## おわりに
+
+今回はAWS環境からGrafana Cloudにデータを送信し、可視化する流れを紹介しました。
+Grafana Cloudの無料プランは期限なく利用できるため、ぜひご活用ください。
