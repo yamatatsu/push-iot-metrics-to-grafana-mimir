@@ -1,4 +1,3 @@
-import * as path from 'node:path';
 import * as iot from '@aws-cdk/aws-iot-alpha';
 import * as iotActions from '@aws-cdk/aws-iot-actions-alpha';
 import * as lambda from "aws-cdk-lib/aws-lambda";
